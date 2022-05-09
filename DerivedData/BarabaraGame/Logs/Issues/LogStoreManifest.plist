@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>CC0380E4-6350-4D90-BADE-8FA0DE6568A5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>CC0380E4-6350-4D90-BADE-8FA0DE6568A5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>BarabaraGame-bsudynzyicrbghekcxgbzekiffmq</string>
+			<key>timeStartedRecording</key>
+			<real>673337594.64061904</real>
+			<key>timeStoppedRecording</key>
+			<real>673337598.41251802</real>
+			<key>title</key>
+			<string>Build target BarabaraGame</string>
+			<key>uniqueIdentifier</key>
+			<string>CC0380E4-6350-4D90-BADE-8FA0DE6568A5</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
