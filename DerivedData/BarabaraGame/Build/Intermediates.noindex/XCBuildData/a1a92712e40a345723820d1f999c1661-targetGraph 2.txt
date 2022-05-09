@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-BarabaraGame in BarabaraGame, no dependencies
